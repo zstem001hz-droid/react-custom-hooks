@@ -6,7 +6,7 @@ A custom hooks implementation lab built with React and TypeScript, demonstrating
 
 ## Features
 
-- [ ] `usePagination` hook with full pagination logic
+- [📄] `usePagination` hook with full pagination logic
 - [ ] `useDebounce` hook for debounced value updates
 - [ ] `PaginationDemo` component showcasing usePagination
 - [ ] `DebounceSearchDemo` component showcasing useDebounce
@@ -41,5 +41,11 @@ npm run dev
 ```
 
 ## References
+
+## References
+- [useMemo — React Docs](https://react.dev/reference/react/useMemo)
+- [Math.ceil — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
+- [Math.min — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min)
+- [Math.max — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
 
 ## Reflections
