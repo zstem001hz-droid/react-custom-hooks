@@ -7,9 +7,9 @@ A custom hooks implementation lab built with React and TypeScript, demonstrating
 ## Features
 
 - ✅ `usePagination` hook with full pagination logic
-- ✅  `useDebounce` hook for debounced value updates
+- ✅ `useDebounce` hook for debounced value updates
 - ✅ `PaginationDemo` component showcasing usePagination
-- [ ] `DebounceSearchDemo` component showcasing useDebounce
+- 📜 `DebounceSearchDemo` component showcasing useDebounce
 
 ## Tech Stack
 
@@ -41,6 +41,7 @@ npm run dev
 ```
 
 ## References
+
 - [useMemo — React Docs](https://react.dev/reference/react/useMemo)
 - [Math.ceil — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
 - [Math.min — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min)
@@ -51,5 +52,7 @@ npm run dev
 - [setTimeout — MDN](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
 - [clearTimeout — MDN](https://developer.mozilla.org/en-US/docs/Web/API/clearTimeout)
 - [TypeScript Generics — TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/2/generics.html)
+- [useState — React Docs](https://react.dev/reference/react/useState)
+- [Controlled Components — React Docs](https://react.dev/learn/sharing-state-between-components)
 
 ## Reflections

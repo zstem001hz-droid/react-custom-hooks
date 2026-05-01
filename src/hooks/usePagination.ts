@@ -61,13 +61,6 @@ function usePagination({
     if (canPrevPage) setCurrentPage((prev) => prev - 1);
   }
 
-  console.log("pagination state:", {
-    currentPage,
-    totalPages: pagination.totalPages,
-    startIndex: pagination.startIndex,
-    endIndex: pagination.endIndex,
-  });
-
   // Returns all pagination state and controls to the consuming component
   return {
     currentPage,
